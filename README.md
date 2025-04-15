@@ -1,8 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A8E6A3&width=435&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg) 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ValleskaVS&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=203a24&title_color=a8e6a3&text_color=c6f3c5&icon_color=a8e6a3&border_color=2e5938" 
   />
@@ -10,7 +11,7 @@
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValleskaVS&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=203a24&title_color=a8e6a3&text_color=c6f3c5&icon_color=a8e6a3&border_color=2e5938" 
   />
 </p>
@@ -36,7 +37,16 @@
     />
   </a>
 </p>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+          
+</p>
+          
 
 
 
