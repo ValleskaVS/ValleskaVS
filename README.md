@@ -3,7 +3,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ValleskaVS&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=203a24&title_color=a8e6a3&text_color=c6f3c5&icon_color=a8e6a3&border_color=2e5938" 
   />
@@ -11,7 +11,7 @@
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
-    height="150" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValleskaVS&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=203a24&title_color=a8e6a3&text_color=c6f3c5&icon_color=a8e6a3&border_color=2e5938" 
   />
 </p>
@@ -23,7 +23,7 @@
     <img 
       src="https://img.shields.io/badge/Linkedin-2e5938?style=for-the-badge&logo=linkedin&color=203a24" 
       alt="LinkedIn" 
-      style="height: 20px;" 
+      style="height: 30px;" 
     />
   </a>
 </p>
@@ -33,7 +33,7 @@
     <img 
       src="https://img.shields.io/badge/instagram-203a24?style=for-the-badge&logo=instagram" 
       alt="LinkedIn" 
-      style="height: 20px;" 
+      style="height: 30px;" 
     />
   </a>
 </p>
