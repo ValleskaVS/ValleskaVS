@@ -1,30 +1,34 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/640px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" alt="Starry Night" width="100%">
-  <br>
-  🌌 Bem-vindo(a) ao meu universo estrelado!
+  🐚🌴 Bem-vindo(a) ao meu cantinho à beira-mar 🌞🐠
 </h1>
 
 <p align="center">
-  <em>"Eu sei com certeza que amo profundamente o céu noturno." - Vincent Van Gogh</em>
+  <img src="https://i.gifer.com/origin/b8/b886ec4029bcebfced88c2f61a202cce_w200.gif" width="70px"/>
+  <img src="https://i.gifer.com/VhU.gif" width="80px"/>
+  <img src="https://i.gifer.com/5R2k.gif" width="70px"/>
+</p>
+
+<p align="center">
+  <em>"A vida é melhor com os pés na areia e o coração no código."</em>
 </p>
 
 ---
 
-### 🎨 Sobre mim
+### 🏖️ Sobre mim
 
-Olá! Me chamo **[Seu Nome]**, sou um(a) desenvolvedor(a) apaixonado(a) por transformar ideias em código, assim como Van Gogh transformava emoções em pinceladas.
+Olá! Me chamo **Ana**, sou desenvolvedora, analista de dados e apaixonada por criar soluções criativas que fazem a diferença.  
+Trabalho como freelancer e também estudo tecnologia com foco em desenvolvimento web e inteligência artificial.
 
-🌟 Fascinado(a) por criatividade, beleza no caos e soluções que brilham como estrelas no céu.
+🐚 Gosto de projetos que unem **funcionalidade e beleza**, como o encontro da areia com o mar.
 
-🖌️ Misturo arte e lógica para criar projetos únicos — cada repositório é como uma tela onde deixo minha marca.
+🌊 Sempre em busca de aprender mais, ajudar a comunidade dev e surfar novas ondas de conhecimento.
 
 ---
 
-### 🌠 Minhas cores favoritas (Tech Stack)
+### 🌴 Minhas ferramentas de praia (Tech Stack)
 
 ```yaml
-- Linguagens:       JavaScript | Python | TypeScript | HTML & CSS
-- Frameworks:       React | Node.js | Express | Flask
-- Ferramentas:      Git | GitHub | VSCode | Postman
-- Banco de dados:   MongoDB | PostgreSQL | SQLite
-- Design:           Figma | Canva | Photoshop
+☀️ Linguagens:       Python, JavaScript, Java
+🌺 Frameworks:       React, Spring Boot, Flask
+🐬 Ferramentas:      Git, GitHub, VSCode, Postman
+🏝️ Banco de dados
