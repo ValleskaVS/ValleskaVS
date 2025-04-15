@@ -23,7 +23,7 @@
     <img 
       src="https://img.shields.io/badge/Linkedin-2e5938?style=for-the-badge&logo=linkedin&color=203a24" 
       alt="LinkedIn" 
-      style="height: 40px;" 
+      style="height: 20px;" 
     />
   </a>
 </p>
@@ -33,7 +33,7 @@
     <img 
       src="https://img.shields.io/badge/instagram-203a24?style=for-the-badge&logo=instagram" 
       alt="LinkedIn" 
-      style="height: 40px;" 
+      style="height: 20px;" 
     />
   </a>
 </p>
