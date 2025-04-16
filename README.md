@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://imgur.com/RJX0kBF.gif" width="100%">
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 <p align="center">Estudante de Ciência da Computação. Atualmente, trabalho como Analista de Dados e estudo Inteligência Artificial e Deep Learning em paralelo. Apaixonada por tecnologia e por criar soluções que fazem a diferença na vida das pessoas, estou sempre em busca de novos desafios e aprendizado constante.
 
   #
-
+<br>
 <div style="text-align: center;" align="center">
   <img 
     alt="GitHub Stats" 
@@ -57,8 +57,9 @@
   </a>
 </div>
 <div align="right">
-  <img src="https://imgur.com/87Cc5eW.gif" width="100px">
+  <img src="https://imgur.com/87Cc5eW.gif" width="150px">
 </div>
+
 #
 
 
@@ -67,4 +68,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValleskaVS/ValleskaVS/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ValleskaVS/ValleskaVS/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="left">
+  <img src="https://imgur.com/4OhavPF.gif" width="40%">
+</div>
+
 
