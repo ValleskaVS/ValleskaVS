@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/RJX0kBF.png" width="100%">
+  <img src="https://imgur.com/RJX0kBF.gif" width="100%">
 </div>
 
 <div align="center">
@@ -56,7 +56,9 @@
     />
   </a>
 </div>
-
+<div align="right">
+  <img src="https://imgur.com/87Cc5eW.gif" width="100px">
+</div>
 #
 
 
@@ -65,7 +67,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValleskaVS/ValleskaVS/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ValleskaVS/ValleskaVS/output/github-contribution-grid-snake.svg">
 </picture>
-          
-
-
 
