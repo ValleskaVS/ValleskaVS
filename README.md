@@ -23,7 +23,7 @@
   />
 </div>
 
-<div style="text-align: center;" align="center">
+<div style="text-align: center;" align="center" ><br>
   <a href="https://www.linkedin.com/in/valleskasouza-dev" target="_blank">
     <img 
       src="https://img.shields.io/badge/Linkedin-2e5938?style=for-the-badge&logo=linkedin&color=203a24" 
@@ -40,6 +40,7 @@
     />
   </a>
 </div>
+
 
 #
 
