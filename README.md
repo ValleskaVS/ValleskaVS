@@ -49,7 +49,8 @@
   </a>
 
   <a href="" target="_blank">
-    <img 
+      <a href="https://www.instagram.com/dell_valle/" target="_blank">
+    <img
       src="https://img.shields.io/badge/instagram-203a24?style=for-the-badge&logo=instagram" 
       alt="LinkedIn" 
       style="height: 30px;" 
