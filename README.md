@@ -23,7 +23,7 @@
   />
 </div>
 
-<p align="left">
+<div style="text-align: center;" align="center">
   <a href="https://www.linkedin.com/in/valleskasouza-dev" target="_blank">
     <img 
       src="https://img.shields.io/badge/Linkedin-2e5938?style=for-the-badge&logo=linkedin&color=203a24" 
@@ -31,9 +31,7 @@
       style="height: 30px;" 
     />
   </a>
-</p>
 
-<p align="left">
   <a href="" target="_blank">
     <img 
       src="https://img.shields.io/badge/instagram-203a24?style=for-the-badge&logo=instagram" 
@@ -41,7 +39,10 @@
       style="height: 30px;" 
     />
   </a>
-</p>
+</div>
+
+#
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
