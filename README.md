@@ -1,22 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A8E6A3&width=435&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg) 
-<p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=A8E6A3&size=23&width=435&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG">
+  </a>
+</div> 
+
+#
+
+<p align="center">Estudante de Ciência da Computação. Atualmente, trabalho como Analista de Dados e estudo Inteligência Artificial e Deep Learning em paralelo. Apaixonada por tecnologia e por criar soluções que fazem a diferença na vida das pessoas, estou sempre em busca de novos desafios e aprendizado constante.
+
+  #
+
+<div style="text-align: center;" align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
+    height="170"
     src="https://github-readme-stats.vercel.app/api?username=ValleskaVS&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=203a24&title_color=a8e6a3&text_color=c6f3c5&icon_color=a8e6a3&border_color=2e5938" 
   />
-
   <img 
-    align="left" 
     alt="Linguagens mais usadas" 
     height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValleskaVS&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=203a24&title_color=a8e6a3&text_color=c6f3c5&icon_color=a8e6a3&border_color=2e5938" 
   />
-</p>
-
-<br clear="left"/>
+</div>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/valleskasouza-dev" target="_blank">
