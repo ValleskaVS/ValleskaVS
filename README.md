@@ -23,7 +23,20 @@
   />
 </div>
 
-<div style="text-align: center;" align="center" ><br>
+
+<div style="display: inline_block" align="center"><br> 
+  <img  alt="Static Badge" src="https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=PostgreSQL">
+  <img  alt="Static Badge" src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-264DE4?style=for-the-badge&logo=CSS3">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20-FFFFFF?style=for-the-badge&logo=html5">
+ 
+</div> <br> <br>
+
+<div style="text-align: center;" align="center">
   <a href="https://www.linkedin.com/in/valleskasouza-dev" target="_blank">
     <img 
       src="https://img.shields.io/badge/Linkedin-2e5938?style=for-the-badge&logo=linkedin&color=203a24" 
@@ -41,18 +54,8 @@
   </a>
 </div>
 
-
 #
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-          
-</p>
 
 <picture align="center" >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValleskaVS/ValleskaVS/output/github-contribution-grid-snake-dark.svg">
