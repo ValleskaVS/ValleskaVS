@@ -26,7 +26,6 @@
 
 <div style="display: inline_block" align="center"><br> 
   <img  alt="Static Badge" src="https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
-  
   <img alt="Static Badge" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django">  
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=PostgreSQL">
   <img  alt="Static Badge" src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
